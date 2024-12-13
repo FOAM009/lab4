@@ -1,0 +1,535 @@
+execution 1.txt
+ 
+execution 2.txt
+ 
+execution 3.txt
+ 
+demobyme.zip
+ 
+demobyme 2.zip
+ 
+demobyme 3.zip
+ 
+AD_PRO_III_will finish soon (3).zip
+ 
+AsteroidGame 2 (1).zip
+ 
+AsteroidGame (2).zip
+ 
+AsteroidGame 2 (1) 1.zip
+ 
+lab1.zip
+ 
+<table style="border: solid; border-collapse: collapse"; >
+        <tr>
+            <td style="border: solid;">Skills & Abilities</td>
+            <td style="border: solid;">
+                <ul>sleep all day</ul>
+                <ul>Eat</ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: solid;">Education</td>
+            <td style="border: solid;">
+                <dl>
+                    <dt>Primary School </dt>
+                    <dd> Wangnamyen Wittayakom </dd>
+                    <dt>GPA </dt>
+                    <dd> 3.78 </dd>
+                    <br>
+                    <dt>HighSchool </dt>
+                    <dd> Wangnamyen Wittayakom </dd>
+                    <dt>GPA </dt>
+                    <dd> 3.99 </dd>
+               
+            </td>
+        </tr>
+        <tr>
+            <td style="border: solid;">Activities</td>
+            <td style="border: solid;">
+                <dl>
+                    <dt>Activity#1 Mocktail Dinner CAMT</dt>
+                    <dd> at CAMT CMU</dd>
+                    <dd>I'm a participator</dd>
+                </dl>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: solid;">Quote</td>
+            <td style="border: solid;">
+                <blockquote>"Confidence is the most beautiful thing you can possess."</blockquote>
+            </td>
+        </tr>
+      </table>
+ 
+Markdown Cheatsheet<a name="TOP"></a>
+===================
+ 
+ 
+- - - -
+# Heading 1 #
+ 
+ 
+    Markup :  # Heading 1 #
+ 
+ 
+    -OR-
+ 
+ 
+    Markup :  ============= (below H1 text)
+ 
+ 
+## Heading 2 ##
+ 
+ 
+    Markup :  ## Heading 2 ##
+ 
+ 
+    -OR-
+ 
+ 
+    Markup: --------------- (below H2 text)
+ 
+ 
+### Heading 3 ###
+ 
+ 
+    Markup :  ### Heading 3 ###
+   
+Common text
+ 
+ 
+    Markup :  Common text
+ 
+ 
+_Emphasized text_
+ 
+ 
+    Markup :  _Emphasized text_ or *Emphasized text*
+ 
+ 
+~~Strikethrough text~~
+ 
+ 
+    Markup :  ~~Strikethrough text~~
+ 
+ 
+__Strong text__
+ 
+ 
+    Markup :  __Strong text__ or **Strong text**
+ 
+ 
+___Strong emphasized text___
+ 
+ 
+    Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
+ 
+ 
+[Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+ 
+ 
+    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+ 
+ 
+[heading-1](#heading-1 "Goto heading-1")
+   
+    Markup: [heading-1](#heading-1 "Goto heading-1")
+   
+ Table, like this one :
+ 
+ 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+ 
+ 
+```
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+```  
+ 
+ 
+ 
+ 
+`code()`
+ 
+ 
+    Markup :  `code()`
+ 
+ 
+```javascript
+    var specificLanguage_code =
+    {
+        "data": {
+            "lookedUpPlatform": 1,
+            "query": "Kasabian+Test+Transmission",
+            "lookedUpItem": {
+                "name": "Test Transmission",
+                "artist": "Kasabian",
+                "album": "Kasabian",
+                "picture": null,
+                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+            }
+        }
+    }
+```
+ 
+ 
+    Markup : ```javascript
+             ```
+ 
+ 
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+2. Which is numbered
+ 
+ 
+- [ ] An uncompleted task
+- [x] A completed task
+ 
+ 
+ 
+ 
+> Blockquote
+>> Nested blockquote
+ 
+ 
+Foldable text:
+ 
+ 
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+<details>
+  <summary>Title 2</summary>
+  <p>Content 2 Content 2 Content 2 Content 2 Content 2</p>
+</details>
+ 
+ 
+```html
+<h3>HTML</h3>
+<p> Some HTML code here </p>
+```
+ 
+ 
+Link to a specific part of the page:
+ 
+ 
+[Go To TOP](#TOP)
+ 
+ 
+Hotkey:
+ 
+ 
+<kbd>⌘F</kbd>
+ 
+ 
+<kbd>⇧⌘F</kbd>
+ 
+ 
+    Markup : <kbd>⌘F</kbd>
+ 
+ 
+Hotkey list:
+ 
+ 
+| Key | Symbol |
+| --- | --- |
+| Option | ⌥ |
+| Control | ⌃ |
+| Command | ⌘ |
+| Shift | ⇧ |
+| Caps Lock | ⇪ |
+| Tab | ⇥ |
+| Esc | ⎋ |
+| Power | ⌽ |
+| Return | ↩ |
+| Delete | ⌫ |
+| Up | ↑ |
+| Down | ↓ |
+| Left | ← |
+| Right | → |
+ 
+ 
+Emoji:
+ 
+ 
+:exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+ 
+ 
+    Markup : Code appears between colons :EMOJICODE:
+   
+:mask:
+ 
+Google
+ 
+# The main question is
+
+how can we add the commit message
+
+we can use the command
+
+``` git commit -m "some text" ```
+
+however, we can use git rebase in the interactive mode to rebase or change the commit message of the old code
+
+# What is the short term for interactive mode?
+
+- i
+
+- u 
+
+- v
+
+# 
+
+can you answer the question?
+
+- [ ] yes
+
+- [ ] no
+
+![wallpaper](https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=1200)
+ 
+---
+
+name: Bug Report
+
+description: File a bug report
+
+title: "[Bug]: "
+
+labels: ["bug", "triage"]
+
+projects: ["octo-org/1", "octo-org/44"]
+
+assignees: 
+
+  - octocat
+
+body:
+
+  - type: markdown
+
+    attributes:
+
+      value: |
+
+        Thanks for taking the time to fill out this bug report!
+ 
+  - type: input
+
+    id: contact
+
+    attributes:
+
+      label: Contact Details
+
+      description: How can we get in touch with you if we need more info?
+
+      placeholder: ex. email@example.com
+
+    validations:
+
+      required: false
+ 
+  - type: textarea
+
+    id: what-happened
+
+    attributes:
+
+      label: What happened?
+
+      description: Also tell us, what did you expect to happen?
+
+      placeholder: Tell us what you see!
+
+      value: "A bug happened!"
+
+    validations:
+
+      required: true
+ 
+  - type: dropdown
+
+    id: version
+
+    attributes:
+
+      label: Version
+
+      description: What version of our software are you running?
+
+      options:
+
+        - 1.0.2 (Default)
+
+        - 1.0.3 (Edge)
+
+      default: 0
+
+    validations:
+
+      required: true
+ 
+  - type: dropdown
+
+    id: browsers
+
+    attributes:
+
+      label: What browsers are you seeing the problem on?
+
+      multiple: true
+
+      options:
+
+        - Firefox
+
+        - Chrome
+
+        - Safari
+
+        - Microsoft Edge
+ 
+  - type: textarea
+
+    id: logs
+
+    attributes:
+
+      label: Relevant log output
+
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+
+      render: shell
+ 
+  - type: checkboxes
+
+    id: terms
+
+    attributes:
+
+      label: Code of Conduct
+
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com).
+
+      options:
+
+        - label: I agree to follow this project's Code of Conduct
+
+          required: true
+
+---
+ 
+---
+
+name: Feature New
+
+description: Add a feature
+
+title: "[Feature]: "
+
+labels: ["feature", "triage"]
+
+projects: ["octo-org/1", "octo-org/44"]
+
+assignees: 
+
+  - octocat
+
+body:
+ 
+  - type: input
+
+    id: contact
+
+    attributes:
+
+      label: Contact Details
+
+      description: What is your name?
+
+      placeholder: ex. Chayaodom Jaisodsai
+
+    validations:
+
+      required: false
+ 
+  - type: markdown
+
+    attributes:
+
+      value: |
+
+        Thanks for taking the time to fill out this bug report!
+ 
+  
+
+
+  - type: dropdown
+
+    id: request
+
+    attributes:
+
+      label: Type of request?
+
+      description: select the types of your request?
+
+      options:
+
+        - New Feature    
+
+        - New 
+
+      default: 0
+
+    validations:
+
+      required: true
+
+  - type: dropdown
+
+    id: os
+
+    attributes:
+
+      label: What is the OS which you want to suggest?
+
+      multiple: true
+
+      options:
+
+        - Mac
+
+        - Window
+
+        - Linux
+
+  - type: textarea
+
+    id: details
+
+    attributes:
+
+      label: What are the details of your suggestion?
+
+      description: Explain what do you want.
+
+      render: shell
+
+ 
+---
+ 
